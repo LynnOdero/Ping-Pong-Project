@@ -1,0 +1,14 @@
+.container{
+display: block;
+background-color: white;
+box-shadow:2px 2px 2px 2px grey;
+padding : 50px;
+width: 100%;
+margin-bottom: 50px
+
+}
+.jumbotron{
+  background-color: yellow;
+  text-align: center;
+  
+}
