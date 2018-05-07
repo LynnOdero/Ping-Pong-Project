@@ -3,19 +3,21 @@
   text-align: center;
 background-image: url('../img/Ping.jpg');
 height: 500px;
-width: 1800px;
+width: auto;
 }
 
 .container{
 background-image: url('../img/pine wood.jpg');
-width: 1800px;
-height: 600px;
+background-repeat: repeat;
+width: auto;
+height: auto;
 }
 
 
 .ppp{
-  background-color: #4CAF50; /* Green */
-  font-size: 25px;
+  background-color: #17202A; * Green */
+  font-size: 55px;
+  color: white;
 }
 
 h2{
