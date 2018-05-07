@@ -35,3 +35,12 @@ padding-right: 0px;
     margin: 8px 0;
     box-sizing: border-box;
 }
+
+.footer{
+  background-color: white;
+  font-style: italic;
+  text-align: center;
+  font-color: red;
+  font-size: 35px;
+
+}
