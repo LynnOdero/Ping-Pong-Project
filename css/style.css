@@ -15,9 +15,10 @@ height: auto;
 
 
 .ppp{
-  background-color: #17202A; * Green */
-  font-size: 55px;
+  background-color: #F4D03F;
+  font-size: 20px;
   color: white;
+  padding: 70px;
 }
 
 h2{
@@ -50,12 +51,24 @@ padding-right: 0px;
    font-size: 16px;
 }
 
+#ping-pong-num{
+border-radius: 50px;
+border: solid white;
+background-color: #1A5276;
+padding: 80px
+color: white;
+height: 100px;
+text-align: center;
+font-size: 24px;
+}
+
 
 .footer{
   background-color: white;
-  font-style: italic;
+font-family: 'Original Surfer', cursive;
   text-align: center;
   color: red;
   font-size: 35px;
+
 
 }
