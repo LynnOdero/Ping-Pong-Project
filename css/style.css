@@ -1,32 +1,32 @@
-.container{
-display: block;
-background-color: white;
-box-shadow:2px 2px 2px 2px grey;
-padding : 50px;
-width: 100%;
-margin-bottom: 50px
-font-family: Frank Ruhl Libre;
 
-}
 .jumbotron{
-  background-color: yellow;
   text-align: center;
-
+background-image: url('../img/Ping.jpg');
+height: 500px;
+width: 1800px;
 }
+
+.container{
+background-image: url('../img/pine wood.jpg');
+width: 1800px;
+height: 600px;
+}
+
 
 .ppp{
   background-color: #7FFFD4;
 }
 
 h2{
-  font-size: 25px;
-  font-family: inherit;
+  font-size: 35px;
+  font-family: 'Frank Ruhl Libre', serif;
 }
 
 .mmm{
-  background-color: #F0FFFF
-  font-size: 30px;
-
+  background-color: white;
+  font-size: 25px;
+font-family: 'Frank Ruhl Libre', serif;
+padding-right: 0px;
 }
 
 .input{
